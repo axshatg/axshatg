@@ -2,49 +2,11 @@
 <h1>Hey there, I’m  <a href="https://github.com/axshatg">Akshat </a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
-### 📬 Find me at
+💻 Software Engineer | ⚙️ Turning ideas into efficient, reliable systems | 🚀 Driven by growth & technology
+
+### 📬 Connect with me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/axshatg/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshatghariya/)](https://www.linkedin.com/in/akshatghariya)
----
-
-### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-I'm **Akshat Ghariya**, currently working as a **Software Engineer I at MAQ Software**. I graduated from **IIIT Allahabad** with a **B.Tech** in **Information Technology**.
-As a **backend developer** working with **Spring Boot**, I’m passionate about building **scalable architectures,** **designing clean APIs,** and **optimizing performance** to create impactful digital experiences.
-
----
-## 🧬 Code & Craft
-
-- 💼 I’m currently working as a **Software Engineer I at [MAQ Software](https://maqsoftware.com/)**  
-- 🎓 Graduated from **IIIT Allahabad** with a **B.Tech in Information Technology**  
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on  
-  - ⚙️ **Backend Development** using **Spring Boot**  
-  - ☁️ **Building Scalable REST APIs & Microservices**  
-  - 🧠 **System Design and Cloud Deployments**  
-  - 🗃️ **Database Optimization**  
-- 👯 I’m looking to collaborate on **Spring Boot**, **microservices**, or **API-driven** projects  
-- 💬 Ask me about **Java**, **Spring Boot**, **Databases**, or **System Design**  
-- 📄 Check out my [Resume](#) *(add your link here)*  
-- 🎬 Fun-Fact: I ❤️ exploring **tech documentaries**, **Sci-Fi movies**, and **space stuff 🚀**
-
----
-## 🚀 Projects
-
-Here are some of the projects I’ve worked on:
-
-### 1. [Project Name](#) <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="20">
-**Description:** A brief description of what the project does, the tech stack used, and any unique features.  
-**Tech Stack:** Java, Spring Boot, MySQL, Docker  
-**Link:** [GitHub Repository](#) | [Live Demo](#)
-
-### 2. [Project Name](#)
-**Description:** A brief description highlighting the project’s main functionality or problem it solves.  
-**Tech Stack:** React, Node.js, MongoDB  
-**Link:** [GitHub Repository](#) | [Live Demo](#)
-
-### 3. [Project Name](#)
-**Description:** Short overview with focus on technical achievements or learning points.  
-**Tech Stack:** Python, Flask, PostgreSQL  
-**Link:** [GitHub Repository](#) | [Live Demo](#)
 
 ---
 ### 🛠 Languages / Frameworks / Cloud Technologies / Tools
@@ -70,17 +32,37 @@ Here are some of the projects I’ve worked on:
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
 
-<!--
-**axshatg/axshatg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 🚀 Projects
 
-Here are some ideas to get you started:
+Here are some of the projects I’ve worked on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. [Project Name](#) <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="20">
+**Description:** A brief description of what the project does, the tech stack used, and any unique features.  
+**Tech Stack:** Java, Spring Boot, MySQL, Docker  
+**Link:** [GitHub Repository](#) | [Live Demo](#)
+
+### 2. [Project Name](#)
+**Description:** A brief description highlighting the project’s main functionality or problem it solves.  
+**Tech Stack:** React, Node.js, MongoDB  
+**Link:** [GitHub Repository](#) | [Live Demo](#)
+
+### 3. [Project Name](#)
+**Description:** Short overview with focus on technical achievements or learning points.  
+**Tech Stack:** Python, Flask, PostgreSQL  
+**Link:** [GitHub Repository](#) | [Live Demo](#)
+
+---
+## 🧬 Code & Craft
+
+- 💼 I’m currently working as a **Software Engineer I at [MAQ Software](https://maqsoftware.com/)**  
+- 🎓 Graduated from **IIIT Allahabad** with a **B.Tech in Information Technology**  
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on  
+  - ⚙️ **Backend Development** using **Spring Boot**  
+  - ☁️ **Building Scalable REST APIs & Microservices**  
+  - 🧠 **System Design and Cloud Deployments**  
+  - 🗃️ **Database Optimization**  
+- 👯 I’m looking to collaborate on **Spring Boot**, **microservices**, or **API-driven** projects  
+- 💬 Ask me about **Java**, **Spring Boot**, **Databases**, or **System Design**  
+- 📄 Check out my [Resume](#) *(add your link here)*  
+- 🎬 Fun-Fact: I ❤️ exploring **tech documentaries**, **Sci-Fi movies**, and **space stuff 🚀**
