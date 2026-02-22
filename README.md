@@ -33,7 +33,7 @@
 </p>
 
 ---
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
 Here are some of the projects I’ve worked on:
 
@@ -51,6 +51,7 @@ Here are some of the projects I’ve worked on:
 **Description:** Short overview with focus on technical achievements or learning points.  
 **Tech Stack:** Python, Flask, PostgreSQL  
 **Link:** [GitHub Repository](#) | [Live Demo](#)
+-->
 
 ---
 ## 🧬 Code & Craft
